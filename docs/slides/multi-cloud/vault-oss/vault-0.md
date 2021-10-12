@@ -37,10 +37,8 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-* Your Name
-* Job Title
-* Secrets Management Experience
-* Favorite Text Editor
+* Leander Janssen
+* Engineer / Instructor
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
