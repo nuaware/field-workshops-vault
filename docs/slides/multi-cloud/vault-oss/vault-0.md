@@ -27,7 +27,7 @@ name: Link-to-Slide-Deck
 <br><br>
 ### Follow along on your own computer at this link:
 
-https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
+https://git.io/JeQqZ
 
 ???
 
@@ -39,6 +39,8 @@ name: Introductions
 
 * Leander Janssen
 * Engineer / Instructor
+* +20 years of experience in IT
+* Favorite Text Editor: vscode & vim
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
