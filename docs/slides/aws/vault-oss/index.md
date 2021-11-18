@@ -27,7 +27,7 @@ name: vault-aws-slide-deck
 <br>
 ### Follow along on your own computer at this link:
 
-### https://hashicorp.github.io/field-workshops-vault/slides/aws/vault-oss/index.html
+### https://git.io/J1gjW
 
 ???
 * You can follow the slides with a browser yourself.
